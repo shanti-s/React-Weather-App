@@ -2,7 +2,7 @@
   " name": "React-Weather-App",
   "version": "1.0.0",
   "description": "des",
-  "homepage": "",
+  "homepage": ".",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
